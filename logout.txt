@@ -1,1 +1,2 @@
-this is a logout page
+this is a logout page.
+add features in logout page
